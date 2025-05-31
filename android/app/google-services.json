@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "84064595774",
+    "project_id": "talentia-cbdf6",
+    "storage_bucket": "talentia-cbdf6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84064595774:android:446b8a074e9d97cec7066f",
+        "android_client_info": {
+          "package_name": "com.example.talentia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84064595774-sa1980rvh1f9egsgrotuj4ciphd8v50u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFgoWYZKj-iX7TrMXdzT3A5zkOYRBBDB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84064595774-sa1980rvh1f9egsgrotuj4ciphd8v50u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "84064595774-uueekog4k2l06hr1s33gjiseec0oat3e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.talentia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
